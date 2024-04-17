@@ -1,5 +1,5 @@
 pip install
--Gradio
--Tensorflow
--numpy
--request
+   -Gradio
+   -Tensorflow
+   -numpy
+   -request
